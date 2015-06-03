@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Program Files\RAD PDF\Service\RadPdfService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Program Files\RAD PDF\Service\RadPdfService.exe
+   logfile = C:\Program Files\RAD PDF\Service\RadPdfService.InstallLog
+Installing service RadPdfService...
+Service RadPdfService has been successfully installed.
+Creating EventLog source RadPdfService in log Application...
+Committing assembly 'C:\Program Files\RAD PDF\Service\RadPdfService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Program Files\RAD PDF\Service\RadPdfService.exe
+   logfile = C:\Program Files\RAD PDF\Service\RadPdfService.InstallLog

@@ -1,0 +1,329 @@
+﻿body{}
+.center_margin
+{
+    margin-left:auto;
+    margin-right:auto;
+    padding: 10px;
+    margin: auto;
+    text-align:center;
+    }
+.center_marginMaster
+{
+    margin-left:auto;
+    margin-right:auto;
+    margin: auto;
+    text-align:center;
+}
+.DetailCellRight
+{
+  /*background-color: #D3E6AE;*/
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    padding: 10px;
+    margin: auto;
+    text-align:center;
+    float:right;
+}
+.DetailCellLeft
+{
+	/*background-color: #D3E6AE;*/
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    padding: 10px;
+    margin: auto;
+    text-align:center;
+    float:left;
+    width: 260px;
+    height: 146px;
+}
+
+.Contracts_GridView
+{ 
+	border: 1px Solid #555555;
+	border-collapse:collapse;
+	margin: 5px 0 10px 0;
+    }
+
+.Contracts_GridView th
+{
+	border: 1px Solid #555555; 
+}
+
+.Contracts_GridView td
+{
+	border: 1px Solid #555555;
+}
+
+.Contracts_GridView .pager table { margin: 5px 0; }  
+.Contracts_GridView .pager td {   
+    border-width: 0;   
+    padding: 0 6px;      
+    font-weight: bold;   
+    color: #000000;
+ }   
+
+.NavDropDownList
+{
+    text-align:center;
+	display:inline-table;
+	border: 1px solid #1B4714;
+	background-color: #1B4714;
+	font-family:Calibri;
+	font-weight:bold;
+	font-size: 1.0em;
+	color: #D3E6AE; /*FFFFFF;*/
+	-moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -khtml-border-radius: 15px;
+    /*border-radius: 20px;*/
+    padding:5px 10px 5px 10px;
+    text-decoration:none;
+}
+.ErrorDropDownList
+{
+    text-align:center;
+	height:40px;
+	display:inline-table;
+	border: 1px solid #1B4714;
+	background-color: #FF3300;
+	font-family:Calibri;
+	font-weight:bold;
+	font-size: 1.0em;
+	color: #FFFFFF; /*FFFFFF;*/
+	-moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -khtml-border-radius: 15px;
+    /*border-radius: 20px;*/
+    padding:5px 10px 5px 10px;
+    text-decoration:none;
+}
+.CurrentNavButton
+{   
+    display:inline;
+	border: 1px solid #D3E6AE;
+	background-color: #D3E6AE;
+	font-family:Calibri;
+	font-weight:bold;
+	font-size: 1.5em;
+	color: #1B4714; /*FFFFFF;*/
+	-moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -khtml-border-radius: 15px;
+    /*border-radius: 20px;*/
+    padding:5px 10px 5px 10px;
+    text-decoration:none;
+    margin-left: 0px;
+}
+.NavButton
+{
+	display:inline;
+	border: 1px solid #1B4714;
+	background-color: #1B4714;
+	font-family:Calibri;
+	font-weight:bold;
+	font-size: 1.5em;
+	color: #D3E6AE; /*FFFFFF;*/
+	-moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -khtml-border-radius: 15px;
+    /*border-radius: 20px;*/
+    padding:5px 10px 5px 10px;
+    text-decoration:none;
+    margin-left: 0px;
+}
+.formLayout2
+{
+    background-color: #f3f3f3;
+    border-right: solid 1px #a1a1a1;
+    border-left: solid 1px #a1a1a1;
+    border-bottom: solid 1px #a1a1a1;
+    padding: 10px;
+    margin:auto;
+    text-align:center;
+    }
+
+/* formLayout */
+.formLayout
+{
+    background-color: #f3f3f3;
+    border: solid 1px #a1a1a1;
+    padding: 10px;
+    margin:auto;
+    text-align:center;
+}
+
+.formLayout label
+{
+    text-align: right;
+    padding-right: 20px;
+}
+
+.formLayout label, .formLayout input, .formLayout select, .formLayout table
+{
+    display: block;
+    margin-bottom: 10px;
+    float: left;
+}
+
+.formLayout textarea
+{
+	display: block;
+    width: 150px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+/* FilterPanelHeader */
+.FilterPanelHeader
+{
+    background-color: #f3f3f3;
+    border: solid 1px #a1a1a1;
+    padding: 10px;
+    margin:auto;
+    text-align:center;
+}
+
+/* FilterPanel */
+.FilterPanel
+{
+    padding: 10px;
+    margin:auto;
+    text-align:center;
+}
+
+.FilterPanel label
+{
+    text-align: right;
+    padding-right: 20px;
+}
+
+.FilterPanel label 
+{
+    display: block;
+    width: 175px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+.FilterPanel span, .FilterPanel select, .FilterPanel input
+{
+	display: block;
+	float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+br
+{
+    clear: left;
+}
+
+/* DataGridLayout */
+.DataGridLayout
+{
+    background-color: #f3f3f3;
+    border: solid 1px #a1a1a1;
+    padding: 10px;
+    width: 900px;
+    margin:auto;
+    text-align:center;
+}
+
+.DataGridLayout label
+{
+    text-align: right;
+    padding-right: 20px;
+}
+
+.DataGridLayout label, .DataGridLayout input, .DataGridLayout select, .DataGridLayout table
+{
+    display: block;
+    width: 150px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+/* Text Boxes Enabled/Disabled */
+.TextBoxTrue
+{
+	background-color: Transparent;
+}
+.TextBoxFalse
+{
+	background-color: #CCCCCC;
+}
+
+/* Grid Cells */
+.GridLeft
+{
+	background-color: #D3E6AE; 
+    /*border: solid 1px #1B4714; */
+    padding: 10px;
+    margin:auto auto auto 4px;
+    /*text-align:center;*/
+    float:left;
+    }
+
+/*
+.GridRight
+{
+	background-color: #f3f3f3;
+    border: solid 1px #a1a1a1;
+    padding: 10px;
+    width: 400px;
+    margin:auto;
+    float:left;
+	clear:right;
+}
+*/
+/*, .GridRight label, .GridRight input, .GridRight select, .GridRight span*/
+/* , .GridLeft span*/
+.GridLeft label, .GridLeft input, .GridLeft select
+{
+    display: block;
+    width: 100px;
+    margin-bottom: 5px;
+    float: left;
+}
+
+.GridLeft td, .GridRight td
+{
+	display: block;
+    width: 150px;
+    margin-bottom: 5px;
+    float: left;
+}
+ 
+
+
+.UneditableField
+{
+	background-color: #BBCB97;
+    /*border: solid 1px #1B4714;*/
+}
+
+#navbar {
+	margin: 0;
+	padding: 0;
+	height: 2.6em; }
+#navbar li {
+	list-style: none;
+	float: right }
+#navbar li a {
+	display: block;
+	padding: 3px 8px;  
+	text-decoration: none; }
+	
+	#navbar li ul {
+	display: none; 
+	width: 10em; /* Width to help Opera out */ 
+	}
+	
+	#navbar li:hover ul {
+	display: block;
+	position:absolute
+	margin: 0;
+	padding: 0; } 
+	 

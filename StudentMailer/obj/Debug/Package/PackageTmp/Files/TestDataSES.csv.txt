@@ -1,0 +1,10 @@
+Stu no|Name|Course|SCJ status|contact email address|Uni email address|Programme code|Course code
+80355890|Ashley U. Gupta|COMP SCI & CYB|C|uz355890@reading.ac.uk|uz355890@reading.ac.uk|BSC3SC|UFCSXCYB
+56201651|Melinda T. Starr|NETCENCOMP MSC|L|mo201651@reading.ac.uk|mo201651@reading.ac.uk|MSCSC|PFTNETCENCM
+67435815|Catherine H. Sherrill|COMP MPHIL/PHD|C|ab435815@reading.ac.uk|ab435815@reading.ac.uk|PHDSC|PPRZCOMPSCHH
+33314622|Martin E. Kearney|COMP ENG|C|hq314622@reading.ac.uk|hq314622@reading.ac.uk|BSC3SC|UFCOMPENG
+45500579|Luis I. Hirsch|COMP MPHIL/PHD|C|gs500579@reading.ac.uk|gs500579@reading.ac.uk|PHDSC|PFRZCSCISFHH
+11059503|Penny E. Reeves|COMP SCI BSC|C|eg059503@reading.ac.uk|eg059503@reading.ac.uk|BSC3SC|UFCOMPB
+86984404|Patrick T. Strauss|FD ICT NW PT|C|cu984404@reading.ac.uk|cu984404@reading.ac.uk|FDSC2SC|NPICTNW
+81806641|Christina A. Baird|CYB AD HOC|C|mc806641@reading.ac.uk|mc806641@reading.ac.uk|ADHOCSC|PFTZCYBERNHA
+67399590|Kristen I. Fisher|INF TECH BSC|C|va399590@reading.ac.uk|va399590@reading.ac.uk|BSC3SC|UFINFTECB

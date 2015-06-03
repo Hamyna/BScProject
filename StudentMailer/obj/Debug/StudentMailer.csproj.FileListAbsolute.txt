@@ -1,0 +1,45 @@
+C:\Users\BS023857\documents\visual studio 2010\Projects\StudentMailer\StudentMailer\bin\StudentMailer.dll
+C:\Users\BS023857\documents\visual studio 2010\Projects\StudentMailer\StudentMailer\bin\StudentMailer.pdb
+C:\Users\BS023857\documents\visual studio 2010\Projects\StudentMailer\StudentMailer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BS023857\documents\visual studio 2010\Projects\StudentMailer\StudentMailer\obj\Debug\StudentMailer.dll
+C:\Users\BS023857\documents\visual studio 2010\Projects\StudentMailer\StudentMailer\obj\Debug\StudentMailer.pdb
+\\tsclient\N\My Documents\Visual Studio 2010\Projects\StudentMailer\StudentMailer\bin\StudentMailer.dll
+\\tsclient\N\My Documents\Visual Studio 2010\Projects\StudentMailer\StudentMailer\bin\StudentMailer.pdb
+\\tsclient\N\My Documents\Visual Studio 2010\Projects\StudentMailer\StudentMailer\obj\Debug\ResolveAssemblyReference.cache
+\\tsclient\N\My Documents\Visual Studio 2010\Projects\StudentMailer\StudentMailer\obj\Debug\StudentMailer.dll
+\\tsclient\N\My Documents\Visual Studio 2010\Projects\StudentMailer\StudentMailer\obj\Debug\StudentMailer.pdb
+N:\My Documents\Visual Studio 2010\Projects\StudentMailer\StudentMailer\obj\Debug\ResolveAssemblyReference.cache
+N:\My Documents\Visual Studio 2010\Projects\StudentMailer\StudentMailer\bin\StudentMailer.dll
+N:\My Documents\Visual Studio 2010\Projects\StudentMailer\StudentMailer\bin\StudentMailer.pdb
+N:\My Documents\Visual Studio 2010\Projects\StudentMailer\StudentMailer\obj\Debug\StudentMailer.dll
+N:\My Documents\Visual Studio 2010\Projects\StudentMailer\StudentMailer\obj\Debug\StudentMailer.pdb
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer\StudentMailer\bin\StudentMailer.dll
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer\StudentMailer\bin\StudentMailer.pdb
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer\StudentMailer\bin\LumenWorks.Framework.IO.dll
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer\StudentMailer\bin\LumenWorks.Framework.IO.pdb
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer\StudentMailer\obj\Debug\ResolveAssemblyReference.cache
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer\StudentMailer\obj\Debug\StudentMailer.dll
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer\StudentMailer\obj\Debug\StudentMailer.pdb
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer 2.1.0\StudentMailer\bin\StudentMailer.dll
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer 2.1.0\StudentMailer\bin\StudentMailer.pdb
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer 2.1.0\StudentMailer\bin\LumenWorks.Framework.IO.dll
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer 2.1.0\StudentMailer\bin\LumenWorks.Framework.IO.pdb
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer 2.1.0\StudentMailer\obj\Debug\ResolveAssemblyReference.cache
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer 2.1.0\StudentMailer\obj\Debug\StudentMailer.dll
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer 2.1.0\StudentMailer\obj\Debug\StudentMailer.pdb
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer 2.1.1\StudentMailer\bin\StudentMailer.dll
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer 2.1.1\StudentMailer\bin\StudentMailer.pdb
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer 2.1.1\StudentMailer\bin\LumenWorks.Framework.IO.dll
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer 2.1.1\StudentMailer\bin\RadPdf.dll
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer 2.1.1\StudentMailer\bin\LumenWorks.Framework.IO.pdb
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer 2.1.1\StudentMailer\obj\Debug\ResolveAssemblyReference.cache
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer 2.1.1\StudentMailer\obj\Debug\StudentMailer.dll
+\\ndrive.rdg.ac.uk\bs023857\My Documents\Visual Studio 2010\Projects\StudentMailer 2.1.1\StudentMailer\obj\Debug\StudentMailer.pdb
+C:\StudentMailer 2.1.1\StudentMailer\obj\Debug\ResolveAssemblyReference.cache
+C:\StudentMailer 2.1.1\StudentMailer\bin\StudentMailer.dll
+C:\StudentMailer 2.1.1\StudentMailer\bin\StudentMailer.pdb
+C:\StudentMailer 2.1.1\StudentMailer\bin\LumenWorks.Framework.IO.dll
+C:\StudentMailer 2.1.1\StudentMailer\bin\RadPdf.dll
+C:\StudentMailer 2.1.1\StudentMailer\bin\LumenWorks.Framework.IO.pdb
+C:\StudentMailer 2.1.1\StudentMailer\obj\Debug\StudentMailer.dll
+C:\StudentMailer 2.1.1\StudentMailer\obj\Debug\StudentMailer.pdb
